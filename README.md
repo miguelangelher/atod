@@ -24,8 +24,8 @@ Atod is not parametrized, I did it as an exercise of learning python so once you
 
 Atod is initaly configured to analyse the Alexa top 1000 and running 10 paralel processes so you have a good base in a matter of minutes. If you want to go further just access the script using your favourite editor and modify the next parameters:
 
-LIMIT = X //X being the number of URLs you want to analyze once the alexa file is downloaded
-NPROCESS = Y //Y being the number of parallel processes you want to run
+- LIMIT = X //X being the number of URLs you want to analyze once the alexa file is downloaded
+- NPROCESS = Y //Y being the number of parallel processes you want to run
 
 # How it performed for me
 Taking into account that my laptop is quite latest (16Gb RAM, SSD and core i7) and my internet connection is not bad (20Mbps), it tooks ~6 hours to pull all the information from the alexa top 1 million using 150 paralel processes.

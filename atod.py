@@ -174,4 +174,4 @@ if __name__ == '__main__':
 	print "\n     --> Check the file %s for your new dictionary <--" % (OUTFILENAME)
 	print "   --> For statistic analysis view the new file %s <--" % (STATFILENAME)
 	print "                --> GREAT DAY FOR HACKING! <--"
-	print "   --> visit me on http://plusplussecurity.blogspot.com/ <--\n"
+	print "   --> visit me on http://plusplussecurity.com/ <--\n"
